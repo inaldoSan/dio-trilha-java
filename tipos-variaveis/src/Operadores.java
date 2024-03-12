@@ -30,9 +30,9 @@ public class Operadores {
         */
         int y = 20;
         y += 5; // y = y + 5
+        System.out.println(y);
         y -= 3; // y = y - 3
-
-
+        System.out.println(y);
         /*
         Operadores Relacionais:
         Comparação entre valores.
@@ -52,7 +52,7 @@ public class Operadores {
         System.out.println(r && s); // false (AND lógico)
         System.out.println(r || s); // true (OR lógico)
 
-        
+
         /* 
         Operador Ternário:
         Uma forma concisa de expressar uma condição.
