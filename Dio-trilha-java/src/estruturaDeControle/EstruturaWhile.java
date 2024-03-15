@@ -1,3 +1,4 @@
+package estruturaDeControle;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class EstruturaWhile {  

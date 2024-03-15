@@ -1,3 +1,4 @@
+package tiposVariaveis;
 public class Metodos {
     public static void main(String[] args) {
         // Exemplo de método simples

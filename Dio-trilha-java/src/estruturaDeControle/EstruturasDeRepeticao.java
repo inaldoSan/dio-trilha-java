@@ -1,3 +1,4 @@
+package estruturaDeControle;
 public class EstruturasDeRepeticao {    
 
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package tiposVariaveis;
 /**
  * <h1>Calculadra</h1>
  * A calculadorra realiza operações matemáticas entre números inteiros
